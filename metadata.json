@@ -1,0 +1,8 @@
+{
+  "name": "Copy of SAVE BITE",
+  "description": "An AI-powered food management platform connecting wholesalers, retailers, and households to track inventory, generate recipes, and facilitate donations to reduce food waste.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
